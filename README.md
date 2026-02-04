@@ -101,5 +101,5 @@ Automatically retries on:
 - Data aggregation at scale
 
 ## Author
-Anil Rupnar
-Backend / Full-Stack Developer
+- Anil Rupnar
+- ( Backend / Full-Stack Developer )
