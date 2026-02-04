@@ -1,0 +1,12 @@
+{
+  "name": "energygrid-data-aggregator-client",
+  "version": "1.0.0",
+  "description": "Client that fetches telemetry for 500 inverters while respecting rate limits and signature requirements.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
