@@ -102,4 +102,4 @@ Automatically retries on:
 
 ## Author
 - Anil Rupnar
-- ( Backend / Full-Stack Developer )
+- [ Backend / Full-Stack Developer ]
